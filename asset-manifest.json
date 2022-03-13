@@ -1,19 +1,21 @@
 {
   "files": {
-    "main.css": "/Personal-Website/static/css/main.17406039.css",
-    "main.js": "/Personal-Website/static/js/main.56e4bfb4.js",
+    "main.css": "/Personal-Website/static/css/main.ce6bce7d.css",
+    "main.js": "/Personal-Website/static/js/main.87e8c536.js",
     "static/js/787.98498dfe.chunk.js": "/Personal-Website/static/js/787.98498dfe.chunk.js",
+    "static/media/mario_walk_right.png": "/Personal-Website/static/media/mario_walk_right.f8de8fe4935bdbba9723.png",
+    "static/media/mario_walk_left.png": "/Personal-Website/static/media/mario_walk_left.841263e4051f20e13fc0.png",
     "static/media/background.png": "/Personal-Website/static/media/background.1a4917f29d6bdfc36474.png",
-    "static/media/My_Name.png": "/Personal-Website/static/media/My_Name.5ad6fbf2d5a32160bb97.png",
-    "static/media/4clouds.png": "/Personal-Website/static/media/4clouds.fc77b5d0e3ec04e1ca55.png",
-    "static/media/3clouds.png": "/Personal-Website/static/media/3clouds.e22644d6f2260bad4468.png",
+    "static/media/mario-salute.png": "/Personal-Website/static/media/mario-salute.59d3f386776f7c0223f2.png",
+    "static/media/mario.png": "/Personal-Website/static/media/mario.4b8cbf792a7f747e9c1c.png",
+    "static/media/mario_facing_left.png": "/Personal-Website/static/media/mario_facing_left.a02292d1d0f10f3f97ad.png",
     "index.html": "/Personal-Website/index.html",
-    "main.17406039.css.map": "/Personal-Website/static/css/main.17406039.css.map",
-    "main.56e4bfb4.js.map": "/Personal-Website/static/js/main.56e4bfb4.js.map",
+    "main.ce6bce7d.css.map": "/Personal-Website/static/css/main.ce6bce7d.css.map",
+    "main.87e8c536.js.map": "/Personal-Website/static/js/main.87e8c536.js.map",
     "787.98498dfe.chunk.js.map": "/Personal-Website/static/js/787.98498dfe.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.17406039.css",
-    "static/js/main.56e4bfb4.js"
+    "static/css/main.ce6bce7d.css",
+    "static/js/main.87e8c536.js"
   ]
 }
