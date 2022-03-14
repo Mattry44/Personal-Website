@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Personal-Website/static/css/main.ce6bce7d.css",
-    "main.js": "/Personal-Website/static/js/main.87e8c536.js",
+    "main.js": "/Personal-Website/static/js/main.43e53ea8.js",
     "static/js/787.98498dfe.chunk.js": "/Personal-Website/static/js/787.98498dfe.chunk.js",
     "static/media/mario_walk_right.png": "/Personal-Website/static/media/mario_walk_right.f8de8fe4935bdbba9723.png",
     "static/media/mario_walk_left.png": "/Personal-Website/static/media/mario_walk_left.841263e4051f20e13fc0.png",
@@ -11,11 +11,11 @@
     "static/media/mario_facing_left.png": "/Personal-Website/static/media/mario_facing_left.a02292d1d0f10f3f97ad.png",
     "index.html": "/Personal-Website/index.html",
     "main.ce6bce7d.css.map": "/Personal-Website/static/css/main.ce6bce7d.css.map",
-    "main.87e8c536.js.map": "/Personal-Website/static/js/main.87e8c536.js.map",
+    "main.43e53ea8.js.map": "/Personal-Website/static/js/main.43e53ea8.js.map",
     "787.98498dfe.chunk.js.map": "/Personal-Website/static/js/787.98498dfe.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ce6bce7d.css",
-    "static/js/main.87e8c536.js"
+    "static/js/main.43e53ea8.js"
   ]
 }
